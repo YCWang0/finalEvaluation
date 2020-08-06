@@ -1,0 +1,48 @@
+
+<h5>clients:</h5>
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Name</th>
+    <th scope="col">PhoneNumber</th>
+    <th scope="col">email</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let cli of client; index as i">
+    <th scope="row">{{ i + 1 }}</th>
+    <td>
+        <a  [routerLink]="[ '/../../Interactions/InteractionsByClientId/', cli.id ]">
+            {{cli.name}}
+            </a>
+    </td>
+    <td>{{ cli.phones | number }}</td>
+    <td>{{ cli.email  }}</td>
+  </tr>
+  </tbody>
+</table>
+
+<h5>employees:</h5>
+<table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">designation</th>
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let emp of employee; index as i">
+      <th scope="row">{{ i + 1 }}</th>
+      <td>
+          <a  [routerLink]="[ '/../../Interactions/InteractionsByClientId/', emp.id ]">
+              {{emp.name}}
+              </a>
+      </td>
+      <td>{{ emp.designation  }}</td>
+     
+    </tr>
+    </tbody>
+  </table>

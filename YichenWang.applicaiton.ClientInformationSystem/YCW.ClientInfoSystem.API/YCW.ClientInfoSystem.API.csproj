@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YichenWang.applicaiton.ClientInformationSystem.Core\YCW.ClientInfoSystem.Core.csproj" />
+    <ProjectReference Include="..\YichenWang.applicaiton.ClientInformationSystem.Infa\YCW.ClientInfoSystem.Infa.csproj" />
+  </ItemGroup>
+
+
+</Project>

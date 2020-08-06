@@ -1,0 +1,9 @@
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.deps.json
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.dll
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.pdb
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.csprojAssemblyReference.cache
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.AssemblyInfoInputs.cache
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.AssemblyInfo.cs
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.dll
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Core\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.pdb

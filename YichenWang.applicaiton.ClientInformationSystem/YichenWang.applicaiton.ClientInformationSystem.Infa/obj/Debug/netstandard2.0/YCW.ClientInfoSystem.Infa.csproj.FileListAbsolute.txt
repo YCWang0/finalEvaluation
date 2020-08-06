@@ -1,0 +1,12 @@
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.deps.json
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.dll
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.pdb
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.dll
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\bin\Debug\netstandard2.0\YCW.ClientInfoSystem.Core.pdb
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.csprojAssemblyReference.cache
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.AssemblyInfoInputs.cache
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.AssemblyInfo.cs
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.csproj.CoreCompileInputs.cache
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.csproj.CopyComplete
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.dll
+C:\Users\yichen wang\Desktop\code\project\YichenWang.applicaiton.ClientInformationSystem\YichenWang.applicaiton.ClientInformationSystem.Infa\obj\Debug\netstandard2.0\YCW.ClientInfoSystem.Infa.pdb
